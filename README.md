@@ -21,7 +21,7 @@ const pritom = {
   education: "B.Sc. in CSE @ Daffodil International University (CGPA: 3.86/4.00)",
   currentFocus: ["Full Stack Development", "MERN Stack", "Machine Learning"],
   openTo: ["Software Development", "Full Stack Development", "ML Engineering"],
-  contact: "+8801742281652 | pritomsahawww@gmail.com",
+  contact: "pritomsahawww@gmail.com",
 };
 ```
 
@@ -138,7 +138,7 @@ A mobile cricket scoring app with toss simulation, ball-by-ball tracking, real-t
 
 <div align="center">
 
-📍 Uttara, Dhaka, Bangladesh &nbsp;·&nbsp; 📞 +8801742281652 &nbsp;·&nbsp; ✉️ pritomsahawww@gmail.com
+📍 Uttara, Dhaka, Bangladesh &nbsp;·&nbsp; &nbsp;·&nbsp; ✉️ pritomsahawww@gmail.com
 
 *"Building things that matter, one commit at a time."*
 
