@@ -4,9 +4,9 @@
 
 ### Full Stack Web Developer · Software Engineer · ML Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pritomsahawww.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritomsaha)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pritomsaha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pritom.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritom-saha-04887623b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRITOM-0)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritomsahawww@gmail.com)
 
 </div>
@@ -73,9 +73,9 @@ A fully featured online store where users can browse products, manage carts, pla
 
 **Stack:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB Atlas · JWT · bcrypt · Axios
 
-[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/pritomsaha/quickshop)
-[![Admin](https://img.shields.io/badge/Live%20Admin-46E3B7?style=flat-square&logo=render)](https://quickshop-admin.onrender.com)
-[![Site](https://img.shields.io/badge/Live%20Site-000000?style=flat-square&logo=vercel)](https://quickshop.vercel.app)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/PRITOM-0/Quick-Shop-Ecommerce-Platform)
+[![Admin](https://img.shields.io/badge/Live%20Admin-46E3B7?style=flat-square&logo=render)](https://quick-shop-admin.onrender.com/)
+[![Site](https://img.shields.io/badge/Live%20Site-000000?style=flat-square&logo=vercel)](https://quick-shop-s6ia.onrender.com/)
 
 ---
 
