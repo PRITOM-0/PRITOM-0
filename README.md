@@ -119,8 +119,9 @@ A mobile cricket scoring app with toss simulation, ball-by-ball tracking, real-t
 
 <div align="center">
 
-![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritomsaha&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritomsaha&layout=compact&hide_border=true&theme=default)
+
+![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRITOM-0&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITOM-0&layout=compact&hide_border=true&theme=default)
 
 </div>
 
